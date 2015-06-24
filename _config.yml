@@ -20,5 +20,5 @@ sass:
   
 pages_list:       
   About: '/about'
-  Publications: '/about'
+  Publications: '/publications'
   Archive: '/archive'
