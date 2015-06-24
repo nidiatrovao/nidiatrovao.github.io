@@ -1,76 +1,33 @@
-<!DOCTYPE html>
-<html>
-<title>Nídia Trovão Website</title>
-<meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8">
-<link rel="stylesheet" href="w3.css">
-<body>
+---
+layout: default
+title: Home
+---
 
-<header class="w3-container grey">
-<h1><img src="nlogo.png" alt="Nídia's logo" style="width:2%">Nídia Trovão</h1>
-</header>
+<div class="posts">
+  {% for post in paginator.posts %}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
-<div class="w3-container">
-<p>
-Coisas acerca
-Teste
-</p>    
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
-<table class="w3-table w3-bordered w3-striped">
-<thead>
-<tr>
-  <th>First Name</th>
-  <th>Last Name</th>
-  <th>Points</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>Jill</td>
-  <td>Smith</td>
-  <td>50</td>
-</tr>
-<tr>
-  <td>Eve</td>
-  <td>Jackson</td>
-  <td>94</td>
-</tr>
-<tr>
-  <td>Adam</td>
-  <td>Johnson</td>
-  <td>67</td>
-</tr>
-</tbody>
-</table>
-
+    {{ post.content }}
+  </article>
+  {% endfor %}
 </div>
 
-<div class="w3-row" style="margin-top:16px">
-
-<div class="w3-half">
-  <div class="w3-card-2 w3-margin-4">
-    <!--<img src="img_london.png" alt="London" style="width:100%">-->
-    <div class="w3-container">
-<p>Secção 1</p>
-<p>Aqui coisas</p>
-    </div>
-  </div>
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
 </div>
-
-<div class="w3-half">
-  <div class="w3-card-2 w3-margin-4">
-    <!--<img src="img_london.png" alt="London" style="width:100%">-->
-    <div class="w3-container">
-<p>Secção 2</p>
-<p>Mais coisas</p>
-    </div>
-  </div>
-</div>
-
-</div>
-
-<footer class="w3-container grey">
-  <h5>About</h5>
-  <p>Contact</p>
-</footer>
-</body>
-</html>
