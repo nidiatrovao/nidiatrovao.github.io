@@ -39,7 +39,7 @@ a {
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-    color: #890000;
+    text-shadow:2px 2px 1px #A0A0A0;
   }
 
   strong {
