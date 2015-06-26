@@ -4,16 +4,16 @@
   {% include head.html %}
 
   <body>
-	  <header class="masthead" style="width:100%">
-        <div class="container content><h3 class="masthead-title" style="background-color:#F0F0F0">
+	  <header class="masthead" style="max-width:58rem;">
+        <h3 class="masthead-title" style="background-color:#F0F0F0">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
 			{% for page in site.pages_list %}
 				&nbsp;&nbsp;&nbsp;
 				<small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
 			{% endfor %}
-		</h3></div>
+		</h3>
       </header>
-    <div class="container content>
+    <div class="container content">
       <main>
         {{ content }}
       </main>
