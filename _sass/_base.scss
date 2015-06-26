@@ -19,8 +19,8 @@ html {
   font-size: 16px;
   line-height: 1.5;
 
-  @media (min-width: 38em) {
-    font-size: 18px;
+  @media (min-width: 50em) {
+    font-size: 16px;
   }
 }
 
@@ -39,7 +39,7 @@ a {
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-    text-shadow:1px 1px 1px #D0D0D0;
+    text-shadow:1px 1px 1px #A0A0A0;
   }
 
   strong {
