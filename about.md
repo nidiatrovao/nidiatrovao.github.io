@@ -4,7 +4,7 @@ title: About
 ---
 I created this website to host my work thoughts, endeavours and related analyses of what is going on in the world.
 
-I am a PhD student in the field of Evolutionary Virology in the laboratory of [Professor Philippe Lemey](https://rega.kuleuven.be/cev/ecv/lab-members/PhilippeLemey.html) at the [KULeuven](http://www.kuleuven.be/english), Belgium.
+Right now, I am a PhD student in the field of Evolutionary Virology in the laboratory of [Professor Philippe Lemey](https://rega.kuleuven.be/cev/ecv/lab-members/PhilippeLemey.html) at the [KULeuven](http://www.kuleuven.be/english), Belgium.
 
 My current research goals are directed towards using sequence data to understand patterns in disease transmission, focusing on applying and extending Phylodynamic methods to investigate the spatio-temporal dynamics of several viral pathogens, with a particular focus on connecting the evolutionary process with geography and ecological patterns of host/vector species, which may prove valuable to investigate the dynamics of many pathogens. 
 
