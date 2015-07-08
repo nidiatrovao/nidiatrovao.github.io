@@ -2,8 +2,6 @@
 layout: page
 title: About
 ---
-
-[@e-mail](http://www.google.com/recaptcha/mailhide/d?k=01RKQXgMiCn8dgvgHbVnzIPQ==&c=yAWm6xoNth1P87zR-8D3AIs1VdbTphSgX6CyOpHw4odFLGn6SO_x_4VJTao_19E0). #bbcode
 Welcome!
 
 I created this website to host my work thoughts, endeavours and related analyses of what is going on in the world.
@@ -17,5 +15,3 @@ Before working on Phylodynamics, I earned my Master's degree in Biomedical Scien
 During my Bachelor degree in Molecular and Cellular Biology at the [Universidade Nova de Lisboa](http://www.unl.pt/en/), Portugal, I was a Research fellow in the Centre of Malaria and other Tropical Diseases, Portugal where under the acquisition of resistance to multiple drugs (ARMD) project I successfully defended my thesis on "Phenotyping and genotyping of <i>Plasmodium chabaudi</i> clones resistant to artemisinin and artesunate”, under the supervision of Professor Virgílio do Rosário and Dr. Ana Afonso.
 
 For more details, please get my Curriculum vitae [here]().
-
-# * asteriscos sao bullets
