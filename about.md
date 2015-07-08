@@ -2,8 +2,6 @@
 layout: page
 title: About
 ---
-Welcome!
-
 I created this website to host my work thoughts, endeavours and related analyses of what is going on in the world.
 
 I am a PhD student in the field of Evolutionary Virology in the laboratory of Professor Philippe Lemey at the [KULeuven](http://www.kuleuven.be/english), Belgium.
