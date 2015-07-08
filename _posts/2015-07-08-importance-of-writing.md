@@ -2,7 +2,7 @@
 layout: post
 title: Importance of writing
 ---
-Besides self-promotion and thought articulation, one of the main goals of this website is a to be a platform where I can practice and somehow log my writing skills.
+Besides self-promotion and thought articulation, one of the main goals of this website is to be a platform where I can practice and somehow log my writing skills.
 
 Being a PhD student certainly requires a lot of writing, whether you like it or not, you're talented or not. Writing your yearly reports, writing grant applications, writing conference abstracts, writing your lost scribbles to then write your articles, and ultimately writing your thesis. 
 
