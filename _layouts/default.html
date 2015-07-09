@@ -4,7 +4,7 @@
   {% include head.html %}
 
   <body>
-	  <header class="masthead" style="padding-top:0;max-width:100rem;margin-left:auto;margin-right:auto">
+	  <header class="masthead" style="padding-top:0;margin-left:auto;margin-right:auto">
         <h3 class="masthead-title" style="background-color:#F0F0F0;padding-top:2.5rem;max-width:100%;padding-bottom:1rem;padding-left:2.5rem;padding-right:2.5rem;margin-left:auto;margin-right:auto">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
 			{% for page in site.pages_list %}
@@ -18,7 +18,7 @@
         {{ content }}
       </main>
 
-      <footer class="footer">
+      <footer class="footer" style="background-color:#F0F0F0">
         <small>
           &copy; <a href="https://www.google.com/recaptcha/mailhide/d?k=01RKQXgMiCn8dgvgHbVnzIPQ==&c=yAWm6xoNth1P87zR-8D3AIs1VdbTphSgX6CyOpHw4odFLGn6SO_x_4VJTao_19E0" onclick="window.open('https://www.google.com/recaptcha/mailhide/d?k=01RKQXgMiCn8dgvgHbVnzIPQ==&c=yAWm6xoNth1P87zR-8D3AIs1VdbTphSgX6CyOpHw4odFLGn6SO_x_4VJTao_19E0', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Nídia's e-mail address">Nídia Trovão</a> <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> &bull; <a href="http://nidiatrovao.github.io/archive/">Archive</a> &bull; <a href="http://nidiatrovao.github.io/atom.xml">RSS</a> &bull; <a href="https://twitter.com/nidiatrovao" target="_blank">Follow me on Twitter</a>! &bull; <a href="https://www.linkedin.com/in/nidiatrovao" target="_blank">See me on Linkedin</a>!
 		  
