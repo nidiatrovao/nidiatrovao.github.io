@@ -5,7 +5,7 @@
 
   <body>
 	  <header class="masthead" style="padding-top:0;max-width:60rem;margin-left:auto;margin-right:auto">
-        <h3 class="masthead-title" style="background-color:#F0F0F0;padding-top:2.5rem;padding-bottom:1rem;padding-left:2.5rem;padding-right:2.5rem">
+        <h3 class="masthead-title" style="background-color:#F0F0F0;padding-top:2.5rem;padding-bottom:1rem;padding-left:2.5rem;padding-right:2.5rem;margin-left:auto;margin-right:auto">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
 			{% for page in site.pages_list %}
 				&nbsp;&nbsp;&nbsp;
@@ -20,7 +20,7 @@
 
       <footer class="footer">
         <small>
-          &copy; Nídia Trovão <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>
+          &copy; <a href="http://www.google.com/recaptcha/mailhide/d?k=01RKQXgMiCn8dgvgHbVnzIPQ==&c=yAWm6xoNth1P87zR-8D3AIs1VdbTphSgX6CyOpHw4odFLGn6SO_x_4VJTao_19E0">Nídia Trovão</a> <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> &bull; <a href="http://nidiatrovao.github.io/archive/">Archive</a> &bull; <a href="http://nidiatrovao.github.io/atom.xml">RSS</a> &bull; <a href="https://twitter.com/nidiatrovao">Follow me on Twitter</a>!
         </small>
       </footer>
     </div>
