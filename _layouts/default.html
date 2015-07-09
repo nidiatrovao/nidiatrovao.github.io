@@ -5,8 +5,8 @@
 
   <body>
 	  <header class="masthead" style="padding-top:0;margin-left:auto;margin-right:auto">
-        <h3 class="masthead-title" style="background-color:#F0F0F0;padding-top:2.5rem;max-width:100%;padding-bottom:1rem;padding-left:6rem;padding-right:4rem;margin-left:auto;margin-right:auto">
-          <a href="{{ site.baseurl }}/" title="Home"><img src="/public/apple-touch-icon-precomposed.png" alt="Logo" height="48px" width="48px">{{ site.title }}</a>
+        <h3 class="masthead-title" style="background-color:#F0F0F0;padding-top:2.5rem;max-width:100%;padding-bottom:1rem;padding-left:6rem;padding-right:6rem;margin-left:auto;margin-right:auto">({{ site.url }}//public/apple-touch-icon-precomposed.png)
+          <img src="/public/apple-touch-icon-precomposed.png" alt="Logo" height="48px" width="48px" style="z-index:-1"><a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
 			{% for page in site.pages_list %}
 				&nbsp;&nbsp;&nbsp;&nbsp;
 				<small><a href="{{ page[1] }}">{{ page[0] }}</a></small>
