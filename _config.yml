@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Nídia Trovão
 tagline:             Website
-url:                 http://nidiatrovao.github.io/
+url:                 http://nidiatrovao.github.io
 paginate:            1
 baseurl:             ""
 
