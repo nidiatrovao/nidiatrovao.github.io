@@ -13,8 +13,11 @@ Finally, in my PhD project I was able to further apply phylogenetic and coalesce
 
 My current research goals are directed towards using the historical information contained in viral gene sequences to understand patterns in disease transmission, with a particular focus on connecting the evolutionary process with geography and ecological patterns of host/vector species, which may prove valuable to investigate the dynamics of many pathogens. 
 In particular, I aim to advance phylogeographic inference from a traditionally descriptive approaches to a hypothesis testing framework. My specific applications are motivated by the following applications:
+
 * To unravel the historical spread of RYMV and to test how viral spread relates to the expansion of rice cultivation in Africa.
+
 * To integrate sequence evolution, spatiotemporal history and processes of host transitioning in order to identify host-specific contributions to the epidemic expansion of HPAIV H5N1.
+
 * To compare the phylogeographic patterns of different seasonal influenza viruses and to develop novel approaches to <i>i)</i> model the temporal heterogeneity of migration dynamics underlying seasonal dynamics and to <i>ii)</i> quantify their tempo and mode of spread.
 
 Additionally, I am also integrated in several projects regarding the phylodynamic reconstruction of HBV in several Middle East countries.
