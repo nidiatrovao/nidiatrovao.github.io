@@ -4,9 +4,7 @@ title: About
 ---
 I created this website to host my work thoughts, endeavours and related analyses of what is going on in the world.
 
-Right now, I am a PhD student in the field of Evolutionary Virology in the laboratory of [Professor Philippe Lemey](https://rega.kuleuven.be/cev/ecv/lab-members/PhilippeLemey.html) at the [KULeuven](http://www.kuleuven.be/english), Belgium.
-
-My current research goals are directed towards using sequence data to understand patterns in disease transmission, focusing on applying and extending Phylodynamic methods to investigate the spatio-temporal dynamics of several viral pathogens, with a particular focus on connecting the evolutionary process with geography and ecological patterns of host/vector species, which may prove valuable to investigate the dynamics of many pathogens. 
+Right now, I am a PhD student in the field of Evolutionary Virology in the laboratory of [Professor Philippe Lemey](https://rega.kuleuven.be/cev/ecv/lab-members/PhilippeLemey.html) at the [KULeuven](http://www.kuleuven.be/english), Belgium. In my project I integrate the concepts of molecular epidemiology and evolutionary biology to study viral phylodynamic processes at different biological scales, which will culminate in a doctoral thesis entitled "The genetic traceability of viral pathogens: from isolation by distance to proximity by mobility".
 
 Before working on Phylodynamics, I earned my Master's degree in Biomedical Sciences from the [Institute of Hygiene and Tropical Medicine](http://www.ihmt.unl.pt/) in Portugal, where I did the academic program, and the KULeuven where I developed my thesis integrated in a project involving the development of a HIV-1 group M near full genome next-generation sequencing protocol, under the supervision of [Eng. Bram Vrancken](https://rega.kuleuven.be/cev/ecv/lab-members/BramVrancken.html) and [Professor Philippe Lemey](https://rega.kuleuven.be/cev/ecv/lab-members/PhilippeLemey.html).
 
