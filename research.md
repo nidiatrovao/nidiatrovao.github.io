@@ -12,7 +12,7 @@ It was only during my Master that I found Virology as a field with so many possi
 Finally, in my PhD project I was able to further apply phylogenetic and coalescent methods, as well as extend phylogeographic approaches methods under Bayesian inference, to assess the public health threats of viral epidemics and gain insight into the emergence and early transmission dynamics, even before systematic epidemiological surveillance has been initiated. 
 
 My current research goals are directed towards using the historical information contained in viral gene sequences to understand patterns in disease transmission, with a particular focus on connecting the evolutionary process with geography and ecological patterns of host/vector species, which may prove valuable to investigate the dynamics of many pathogens. 
-In particular, I aim to advance phylogeographic inference from a traditionally descriptive approach to a hypothesis testing framework. My specific applications are motivated to gain insight into plant virus, and avian and human influenza virus spatio-temporal dynamics.
+In particular, I aim to advance phylogeographic inference from a traditionally descriptive approach to a hypothesis testing framework. My specific applications are motivated to gain insight into plant, avian and human influenza viruses spatio-temporal dynamics.
 Additionally, I am also integrated in several projects regarding the phylodynamic reconstruction of HBV in several Middle East countries.
 
 If you have some heterochronous sequence data and you’re up for a collaboration, please don’t hesitate to [contact me](https://www.google.com/recaptcha/mailhide/d?k=01RKQXgMiCn8dgvgHbVnzIPQ==&c=yAWm6xoNth1P87zR-8D3AIs1VdbTphSgX6CyOpHw4odFLGn6SO_x_4VJTao_19E0)!
