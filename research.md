@@ -12,14 +12,7 @@ It was only during my Master that I found Virology as a field with so many possi
 Finally, in my PhD project I was able to further apply phylogenetic and coalescent methods, as well as extend phylogeographic approaches methods under Bayesian inference, to assess the public health threats of viral epidemics and gain insight into the emergence and early transmission dynamics, even before systematic epidemiological surveillance has been initiated. 
 
 My current research goals are directed towards using the historical information contained in viral gene sequences to understand patterns in disease transmission, with a particular focus on connecting the evolutionary process with geography and ecological patterns of host/vector species, which may prove valuable to investigate the dynamics of many pathogens. 
-In particular, I aim to advance phylogeographic inference from a traditionally descriptive approach to a hypothesis testing framework. My specific applications are motivated by the following applications:
-
-* To unravel the historical spread of RYMV and to test how viral spread relates to the expansion of rice cultivation in Africa;
-
-* To integrate sequence evolution, spatiotemporal history and processes of host transitioning in order to identify host-specific contributions to the epidemic expansion of HPAIV H5N1;
-
-* To compare the phylogeographic patterns of different seasonal influenza viruses and to develop novel approaches to <i>i)</i> model the temporal heterogeneity of migration dynamics underlying seasonal dynamics and to <i>ii)</i> quantify their tempo and mode of spread.
-
+In particular, I aim to advance phylogeographic inference from a traditionally descriptive approach to a hypothesis testing framework. My specific applications are motivated to gain insight into plant virus, and avian and human influenza virus spatio-temporal dynamics.
 Additionally, I am also integrated in several projects regarding the phylodynamic reconstruction of HBV in several Middle East countries.
 
 If you have some heterochronous sequence data and you’re up for a collaboration, please don’t hesitate to [contact me](https://www.google.com/recaptcha/mailhide/d?k=01RKQXgMiCn8dgvgHbVnzIPQ==&c=yAWm6xoNth1P87zR-8D3AIs1VdbTphSgX6CyOpHw4odFLGn6SO_x_4VJTao_19E0)!
