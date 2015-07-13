@@ -6,7 +6,7 @@
   <body>
 	  <header class="masthead" style="padding-top:0;margin-left:auto;margin-right:auto">
         <h3 class="masthead-title" style="background-color:#F5F5F5;background-image: url('/public/apple-touch-icon-precomposed.png');background-size:contain;background-repeat:no-repeat;padding-top:1.5rem;max-width:100%;padding-bottom:1rem;padding-left:8rem;padding-right:0rem;margin-left:auto;margin-right:auto;box-shadow: 0px 2px 0px #515151;background-position:left 2.5rem bottom">
-            <img src="/public/apple-touch-icon-precomposed.png" alt="Logo" height="100%"><a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
 			{% for page in site.pages_list %}
 				&nbsp;&nbsp;&nbsp;&nbsp;
 				<small><a href="{{ page[1] }}">{{ page[0] }}</a></small>
