@@ -6,10 +6,9 @@
   <body>
 	  <header class="masthead" style="padding-top:0">
         <h3 class="masthead-title" style="background-color:#F5F5F5;background-image: url('/public/apple-touch-icon-precomposed.png');background-size:contain;background-repeat:no-repeat;padding-top:1.5rem;max-width:100%;padding-bottom:1rem;padding-left:8rem;padding-right:2.5rem;box-shadow: 0px 2px 0px #515151;background-position:left 2.5rem bottom">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>&nbsp;&nbsp;&nbsp;&nbsp;
 			{% for page in site.pages_list %}
-				<span style="display:inline-block">&nbsp;&nbsp;&nbsp;&nbsp;
-				<small><a href="{{ page[1] }}">{{ page[0] }}</a></small></span>
+				<span style="display:inline-block"><small><a href="{{ page[1] }}">{{ page[0] }}</a></small>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 			{% endfor %}
 		</h3>
       </header>
