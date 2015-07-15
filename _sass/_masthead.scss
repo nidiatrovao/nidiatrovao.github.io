@@ -26,8 +26,8 @@
   } 
 }
 
-  @media all and (max-width: 600px) {
-      .masthead-title {
-        background-position:left 0.5rem bottom;
-      }
+@media all and (max-width: 20rem) {
+  .masthead-title {
+     background-position:left 0.5rem bottom;
   }
+}
