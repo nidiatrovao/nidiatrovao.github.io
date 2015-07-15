@@ -20,7 +20,7 @@ layout: null
   <priority>0.60</priority>
 </url>
 <url>
-  <loc>http://nidiatrovao.com/archive/</loc>
+  <loc>{{ site.baseurl }}/archive/</loc>
   <priority>0.50</priority>
 </url>
   {% for post in site.posts %}
