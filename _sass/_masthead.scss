@@ -42,3 +42,10 @@
 	 padding-left:9rem;
   }
 }
+
+@media all and (max-width: 10rem) {
+  .masthead-title {
+     background-position:left 0rem bottom;
+	 padding-left:8rem;
+  }
+}
