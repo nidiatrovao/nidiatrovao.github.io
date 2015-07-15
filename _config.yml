@@ -22,3 +22,6 @@ pages_list:
   About: '/about'
   Research: '/research'
   Publications: '/publications'
+  
+  gems:
+  - jekyll-sitemap
