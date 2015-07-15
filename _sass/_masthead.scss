@@ -36,16 +36,16 @@
   } 
 }
 
-@media all and (max-width: 25rem) {
+@media all and (max-width: 35rem) {
   .masthead-title {
-     background-position:left 1rem bottom;
+     background-position:left 1.5rem bottom;
 	 padding-left:9rem;
   }
 }
 
 @media all and (max-width: 20rem) {
   .masthead-title {
-     background-position:left 0rem bottom;
-	 padding-left:8rem;
+     background-position:left 1rem bottom;
+	 padding-left:9rem;
   }
 }
