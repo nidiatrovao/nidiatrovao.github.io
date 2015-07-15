@@ -9,7 +9,7 @@ title:               Nídia Trovão
 tagline:             Website
 url:                 http://nidiatrovao.com
 paginate:            3
-baseurl:             ""
+baseurl:             "http://nidiatrovao.com"
 
 # Assets
 #
@@ -22,6 +22,3 @@ pages_list:
   About: '/about'
   Research: '/research'
   Publications: '/publications'
-  
-  gems:
-  - jekyll-sitemap
