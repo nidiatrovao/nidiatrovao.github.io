@@ -25,9 +25,7 @@ layout: null
 </url>
 <url>
   <loc>http://nidiatrovao.com/archive/</loc>
-   <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
-   <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-   <priority>{{ page.sitemap.priority }}</priority>
+  <priority>0.50</priority>
 </url>
   {% for post in site.posts %}
   <url>
