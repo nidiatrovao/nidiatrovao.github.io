@@ -24,8 +24,8 @@
     letter-spacing: 0;
   }
   
-    @media screen and (max-width: 300px) {
-      .masthead-title {
+    @media screen and (max-width: 600px) {
+      masthead-title {
         background-position:left 0.5rem bottom;
       }
     }
