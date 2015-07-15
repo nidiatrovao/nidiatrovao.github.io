@@ -2,11 +2,7 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>http://nidiatrovao.com/</loc>
   <priority>1.00</priority>
@@ -28,8 +24,8 @@ layout: null
   <priority>0.50</priority>
 </url>
   {% for post in site.posts %}
-  <url>
-    <loc>{{ site.baseurl }}{{ post.url }}</loc>
+<url>
+    <loc>{{ post.url }}</loc>
     {% if post.lastmod == null %}
     <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
     {% else %}
@@ -37,6 +33,6 @@ layout: null
     {% endif %}
     <changefreq>weekly</changefreq>
     <priority>0.1</priority>
-  </url>
+</url>
   {% endfor %}
 </urlset>
