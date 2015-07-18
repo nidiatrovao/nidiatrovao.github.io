@@ -15,9 +15,8 @@ body {
 }
 
 html {
-  font:16pt georgia, serif;
-  //font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  //font-size: 16px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
   line-height: 1.5;
   overflow-y: scroll;
 
@@ -41,7 +40,8 @@ a {
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-    text-shadow:1px 1px 0px #D0D0D0;
+    \\text-shadow:1px 1px 0px #D0D0D0;
+	vertical-align: text-top;
   }
 
   strong {
