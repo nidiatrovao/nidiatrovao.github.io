@@ -4,7 +4,7 @@
 
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
-  font-weight: bold;
+  font-weight: 500;
   line-height: 1.25;
   color: #515151;
   text-rendering: optimizeLegibility;
@@ -44,7 +44,7 @@ ul, ol, dl {
 }
 
 dt {
-  font-weight: bold;
+  font-weight: 500;
 }
 
 dd {
@@ -61,7 +61,7 @@ hr {
 
 abbr {
   font-size: 85%;
-  font-weight: bold;
+  font-weight: 500;
   color: #555;
   text-transform: uppercase;
 
@@ -98,7 +98,7 @@ a[href^="#fn:"],
 a[href^="#fnref:"] {
   display: inline-block;
   margin-left: .1rem;
-  font-weight: bold;
+  font-weight: 500;
 }
 
 // List of footnotes
