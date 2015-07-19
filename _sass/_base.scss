@@ -17,6 +17,13 @@
 }
 
 @font-face {
+  font-family: Nfontf;
+  font-style: normal;
+  font-weight: 300;
+  src: url('/public/opensansf.woff2') format('woff2');
+}
+
+@font-face {
   font-family: Sfont;
   font-style: normal;
   font-weight: 400;
@@ -38,7 +45,7 @@ html {
   overflow-y: scroll;
 
   @media (min-width: 50em) {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 
