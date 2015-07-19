@@ -17,10 +17,11 @@
 }
 
 @font-face {
-  font-family: Nnamefont;
+  font-family: Sfont;
   font-style: normal;
   font-weight: 400;
-  src: url('/public/abrush.woff2') format('woff2');
+  src: url('/public/doand.woff2') format('woff2'),
+       url('/public/doand.woff') format('woff');
 }
 
 html,
