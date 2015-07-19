@@ -12,7 +12,8 @@
     font-family: Nfont;
 	font-style: normal;
     font-weight: 400;
-    src: url(/public/opensans.woff2);
+    src: url('/public/opensans.woff2') format('woff2'),
+         url('/public/opensans.woff') format('woff');
 }
 
 html,
