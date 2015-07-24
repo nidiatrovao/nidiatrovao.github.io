@@ -13,4 +13,5 @@ Anyways, this presents as a very hopeful step towards control of this deadly dis
 
 ##References
 [Factsheet on the World Malaria Report 2014](http://www.who.int/malaria/media/world_malaria_report_2014/en/)
-[RTS,S Clinical Trials Partnership, The Lancet. 2015; 386 (9988): 31–45](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15&#41;60721-8/fulltext)
+
+[RTS,S Clinical Trials Partnership, The Lancet. 2015; 386 (9988): 31–45](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60721-8/fulltext)
