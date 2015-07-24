@@ -3,7 +3,7 @@ layout: post
 title: An important step towards the first malaria vaccine
 ---
 
-The world's first malaria vaccine candidate was approved by the European Medicines Agency to combat the protozoan disease that killed more than 584 000 people worldwide in 2013.
+The world's first malaria vaccine candidate was approved by the European Medicines Agency to combat the protozoan disease that killed more than 584 000 people worldwide in 2013 alone.
 
 Due to the mixed trial results, the World Health Organisation and African national health authorities will deliberate later this year on whether to approved the GlaxoSmithKline&reg; Mosquirix&trade; for children in sub-Saharan Africa, where the disease kills a child every 60 seconds.
 
