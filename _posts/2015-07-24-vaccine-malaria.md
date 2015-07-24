@@ -9,7 +9,7 @@ The African national health authorities and the World Health Organisation will d
 
 Although clinical trials showed highest degree of protection among children aged 5 to 17 months, with two thirds of the population being protected from severe malaria, effectiveness of the vaccine depends on administration of all 4 doses along with an adjuvant, at time intervals not coincident with other childhood vaccination programs, which could prove very challenging to implement, due to the organisational and monetary effort required.
 
-Anyways, this presents as a very hopeful step towards control of this deadly disease, where even partially protection could play a role on ameliorating the burden in countries with very high prevalence rates. 
+Anyway, this presents as a very hopeful step towards control of this deadly disease, where even partially protection could play a role on ameliorating the burden in countries with very high prevalence rates. 
 
 
 <!--
