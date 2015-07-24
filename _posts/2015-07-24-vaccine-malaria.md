@@ -3,7 +3,7 @@ layout: post
 title: EMA approves first malaria vaccine
 ---
 
-The first malaria vaccine was approved by the European Medicines Agency to combat the protozoan disease that kills more than 500 thousand people per year worldwide.
+The world's first malaria vaccine was approved by the European Medicines Agency to combat the protozoan disease that kills more than 500 thousand people per year worldwide.
 
 Due to the mixed trial results, the World Health Organisation and african national health authorities will deliberate later this year on weather to approved the GlaxoSmithKline Mosquirix jab for children in sub-Saharan Africa, where the disease kills a child every 60 seconds.
 
