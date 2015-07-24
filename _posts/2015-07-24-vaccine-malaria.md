@@ -11,7 +11,9 @@ Although clinical trials showed highest degree of protection among children aged
 
 Anyways, this presents as a very hopeful step towards control of this deadly disease, where even partially protection could play a role on ameliorating the burden in countries with very high prevalence rates. 
 
+
+
 ##References
 [Factsheet on the World Malaria Report 2014](http://www.who.int/malaria/media/world_malaria_report_2014/en/)
 
-[RTS,S Clinical Trials Partnership, The Lancet. 2015; 386 (9988): 31–45](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60721-8/fulltext)
+[RTS&#44;S Clinical Trials Partnership, The Lancet. 2015; 386 (9988): 31–45](http://dx.doi.org/10.1016/S0140-6736(15)60721-8)
