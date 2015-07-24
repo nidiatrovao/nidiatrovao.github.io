@@ -12,10 +12,10 @@ Although clinical trials showed highest degree of protection among children aged
 Anyways, this presents as a very hopeful step towards control of this deadly disease, where even partially protection could play a role on ameliorating the burden in countries with very high prevalence rates. 
 
 
-
+<!--
 ##References
 [Factsheet on the World Malaria Report 2014](http://www.who.int/malaria/media/world_malaria_report_2014/en/)
 
 [RTS&#44;S Clinical Trials Partnership, The Lancet. 2015; 386 (9988): 31–45](http://dx.doi.org/10.1016/S0140-6736(15)60721-8)
 
-[GSK’s malaria candidate vaccine, Mosquirix&trade (RTS&#44;S), receives positive opinion from European regulators for the prevention of malaria in young children in sub-Saharan Africa](https://www.gsk.com/en-gb/media/press-releases/2015/gsk-s-malaria-candidate-vaccine-mosquirix-rtss-receives-positive-opinion-from-european-regulators-for-the-prevention-of-malaria-in-young-children-in-sub-saharan-africa/)
+[GSK’s malaria candidate vaccine, Mosquirix&trade (RTS&#44;S), receives positive opinion from European regulators for the prevention of malaria in young children in sub-Saharan Africa](https://www.gsk.com/en-gb/media/press-releases/2015/gsk-s-malaria-candidate-vaccine-mosquirix-rtss-receives-positive-opinion-from-european-regulators-for-the-prevention-of-malaria-in-young-children-in-sub-saharan-africa/)-->
