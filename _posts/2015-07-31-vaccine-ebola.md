@@ -12,6 +12,6 @@ Trials in Guinea targeted 7651 adults that were exposed to laboratory confirmed 
 These results present as a potential tool to protect not only the vaccinated individuals as well as indirectly the unvaccinated population, probably within a week after vaccination.
 Hopefully, this newly developed vaccine and ring administering concept will be soon implemented in other countries in West Afica to help curb the Ebola epidemics.
 
-![&copy; Credit to Liberian photographer Alphanso Appleton](/images/AlphansoAppleton_EbolaLiberia.jpg)
+![&copy; Alphanso Appleton Ebola Liberia 2015](/images/AlphansoAppleton_EbolaLiberia.jpg)
 Credit to Liberian photographer Alphanso Appleton.
 
