@@ -3,7 +3,6 @@ layout: page
 title: Research
 ---
 <br>
-
 As a child, I believe that besides wanting to be an astronaut, ballerina, doctor and magician, I’ve always wanted to be a scientist. I think I’ve just spent too many hours playing with my optical microscope analysing the epidermis of onion bulbs and everything I would put my hands on!
 
 Anyways, my first real endeavour in science occurred in the last year of my Bachelor when we had to present a thesis and defend it. Two options were given: <i>i)</i> a review-style manuscript or <i>ii)</i> an laboratory internship from where a thesis should derive. Off course, the excitement was in the latter option, and so I followed! There were many respectable laboratories in the [Faculty of Sciences and Technology](http://www.fct.unl.pt/en/), but none that sparked my interest as in the [Institute of Hygiene and Tropical Medicine](http://www.ihmt.unl.pt/). I managed to get an interview for an internship as a Research Fellow in the Centre of Malaria and other Tropical Diseases, I it is in all honesty that I believe that I got the position because of how passionately described my desire to work in neglected tropical diseases such as malaria and help those affected by them.
