@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-
+<br>
 I created this website to host my work thoughts, endeavours and related analyses of what is going on in the world.
 
 Right now, I am a PhD student in the field of Evolutionary Virology in the [laboratory of Professor Philippe Lemey](http://rega.kuleuven.be/cev/ecv) at the [KULeuven](http://www.kuleuven.be/english), Belgium. In my project I integrate the concepts of molecular epidemiology and evolutionary biology to study viral phylodynamic processes at different biological scales, which will culminate in a doctoral thesis entitled "The genetic traceability of viral pathogens: from isolation by distance to proximity by mobility".
