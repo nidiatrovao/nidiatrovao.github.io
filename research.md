@@ -2,6 +2,7 @@
 layout: page
 title: Research
 ---
+<br>
 
 As a child, I believe that besides wanting to be an astronaut, ballerina, doctor and magician, I’ve always wanted to be a scientist. I think I’ve just spent too many hours playing with my optical microscope analysing the epidermis of onion bulbs and everything I would put my hands on!
 
