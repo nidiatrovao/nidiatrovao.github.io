@@ -13,4 +13,4 @@ Although plague incidence is limited in the USA, caution has been advised for hu
 
 Although with a fearsome denomination, plague can now be successfully treated with antibiotics if diagnosed early.
 
-![&copy; Prairie Dog Yosemite National Park](/images/PrairieDogYosemiteNatPark.jpg)
+![&copy; Prairie Dog Yosemite National Park](http://nidiatrovao.com/images/PrairieDogYosemiteNatPark.jpg)

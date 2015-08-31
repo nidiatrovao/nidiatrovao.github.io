@@ -9,4 +9,4 @@ The question remains: What is the source of re-emergence? Or has it been circula
 
 As a side note, the Portuguese André Carrilho won the [Grand Prix World Press Cartoon 2015](http://www.worldpresscartoon.com/en#/noticias/154) by addressing the Ebola outbreak, exposing the contours of a devastating disease as well as the duality in the media when dealing with the victims.
 
-![&copy; André Carrilho World Press 2015](/images/AndreCarrilhoWorldPress2015.jpg)
+![&copy; André Carrilho World Press 2015](http://nidiatrovao.com/images/AndreCarrilhoWorldPress2015.jpg)
