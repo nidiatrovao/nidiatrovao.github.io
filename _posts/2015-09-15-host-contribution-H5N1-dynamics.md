@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Host-specific contribution to H5N1 expansion in Eurasia
+title: Host-specific contributions to H5N1 expansion in Eurasia
 ---
 
 September 2015 granted me my first first-author research article. It targets the intricate host dynamics of highly pathogenic avian influenza virus  (HPAIV) H5N1.
