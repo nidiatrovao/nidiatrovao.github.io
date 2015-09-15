@@ -3,7 +3,7 @@ layout: post
 title: Host-specific contributions to H5N1 expansion in Eurasia
 ---
 
-September 2015 granted me my first first-author research article. It targets the intricate host dynamics of highly pathogenic avian influenza virus  (HPAIV) H5N1.
+September 2015 granted me my <i>primogenitus</i> first-author research article. It targets the intricate host dynamics of highly pathogenic avian influenza virus  (HPAIV) H5N1.
 
 H5N1 is a subtype from the Influenza A genus, and was firstly detected in 1996 in geese of Guangdong, China, from where it spread globally. 
 The origins of HPAIV H5N1 are already well characterized, so in this project we wanted to gain insight if genetic data provide information on which host contributes the most for viral spread. Taking into account that H5N1 has a complex ecology involving the host, there are 2 competing hypotheses for these dynamics:  <br/>
@@ -23,6 +23,6 @@ The integration of both host and location in a single analysis and the joint rec
 
 In conclusion, in this study we identified <i>Anatidae</i> as the major contributor of HPAIV H5N1 expansion and point out to locations, pathways and the host that should be targeted in surveillance and control efforts.
 
-For more details on the study and relevant background, please find the article entitled "Bayesian inference reveals host-specific contributions to the epidemic expansion of Influenza A H5N1" published [here](http://mbe.oxfordjournals.org/content/early/2015/09/03/molbev.msv185.short?rss=1).
+For more details on the study and relevant background, please find the article entitled "Bayesian inference reveals host-specific contributions to the epidemic expansion of Influenza A H5N1" published [here](http://mbe.oxfordjournals.org/content/early/2015/09/03/molbev.msv185.short).
 Please do not hesitate in contacting me for further information.
 
