@@ -9,6 +9,8 @@ title: Publications
 
 * Zeller M †, Donato C †, <b>Trovão NS</b>, Cowley D, Heylen E, Donker NC, McAllen JK, Akopov A, Kirkness EF, Lemey P, Van Ranst M, Matthijnssens J ‡, Kirkwood CD ‡. 2015. [Genome-wide evolutionary analyses of G1P[8] strains isolated before and after rotavirus vaccine introduction.](http://gbe.oxfordjournals.org/content/early/2015/08/08/gbe.evv157) Genome Biology and  Evolution pii: evv157. † and ‡ Denote equal contribution.
 
+* <b>Trovão NS</b>, Suchard MA, Baele G, Gilbert M, Lemey P. 2015. [Bayesian inference reveals host-specific contributions to the epidemic expansion of Influenza A H5N1.](http://mbe.oxfordjournals.org/content/early/2015/09/03/molbev.msv185.short?rss=1) MBE
+
 ##Tutorials
 
 * Lemey P and <b>Trovão NS</b>. 2013. [Tutorial for continuous diffusion phylogeography of rabies virus in racoons](https://code.google.com/p/beast-mcmc/downloads/detail?name=Continuous_Phylogeography_1.7.5.zip&can=2&q=). BEAST website. 
