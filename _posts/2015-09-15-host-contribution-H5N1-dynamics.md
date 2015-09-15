@@ -6,8 +6,8 @@ title: Host-specific contribution to H5N1 expansion in Eurasia
 September 2015 granted me my first first-author research article. It targets the intricate host dynamics of highly pathogenic avian influenza virus  (HPAIV) H5N1.
 
 H5N1 is a subtype from the Influenza A genus, and was firstly detected in 1996 in geese of Guangdong, from where it spread globally. 
-The origins of HPAIV H5N1 are already well characterized, so in this project we wanted to gain insight if genetic data provide information on which host contributes the most for viral spread. Taking into account that H5N1 has a complex ecology involving the host, there are 2 competing hypotheses for these dynamics: 
-* Ducks belonging to the <i>Anatidae</i> family are the main contributors for HPAIV H5N1 dispersal in a 2-fold way: i) as domestic asymptomatic carriers, or ii) as wild waterfowl, exposing the resident population during their migratory routes; or if 
+The origins of HPAIV H5N1 are already well characterized, so in this project we wanted to gain insight if genetic data provide information on which host contributes the most for viral spread. Taking into account that H5N1 has a complex ecology involving the host, there are 2 competing hypotheses for these dynamics:  <br/>
+* Ducks belonging to the <i>Anatidae</i> family are the main contributors for HPAIV H5N1 dispersal in a 2-fold way: i) as domestic asymptomatic carriers, or ii) as wild waterfowl, exposing the resident population during their migratory routes; or if <br/>
 * Chickens belonging to the <i>Phasianidae</i> family perpetuate HPAIV H5N1 epidemics due to the intense movement of poultry products. 
 
 From the publicly available samples, we took several measures to mitigate sampling bias, arriving at datasets with 806 sequences of HA and NA from Eurasia, from 1996 till 2011, with location and host annotations.
