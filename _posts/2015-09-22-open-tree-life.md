@@ -12,4 +12,4 @@ Although this synthetic tree of life assumes a bifurcating topology, some relati
 This project presents as an open source framework that allows continuous update of the tree of life as new organisms are characterised and new data gets published.
 //
 //
-![&copy; Open tree of life from https://tree.opentreeoflife.org/](http://nidiatrovao.com/images/TreeOfLife.jpg)
+![&copy; Open tree of life from https://tree.opentreeoflife.org/](http://nidiatrovao.com/images/TreeOfLife.gif)
