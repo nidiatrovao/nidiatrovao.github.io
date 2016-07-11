@@ -12,4 +12,4 @@ The National Center for Atmospheric Research (NCAR) has recently published a [ri
 Overall, the need to further implement effective control measures urge with the eminent threat of Zika in northern regions, as the vector adapts to new environments.
 
 <br>
-![&copy; Zika risk map in the USA from https://www2.ucar.edu/atmosnews/news/19850/potential-zika-virus-risk-estimated-for-50-us-cities](http://nidiatrovao.com/images/zika_riskmap_US_ncar_ucar_2016_800.png)
+![&copy; Zika risk map in the USA from https://www2.ucar.edu/atmosnews/news/19850/potential-zika-virus-risk-estimated-for-50-us-cities](http://nidiatrovao.com/images/ZikaRiskMapUSNCAR.jpg)
