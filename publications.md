@@ -25,6 +25,7 @@ title: Publications
 * Pineda-Peña AC, Schrooten Y, Vinken L, Ferreira F, Li G, <u>Trovão NS</u>, Khouri R,  Derdelinckx I, De Munter P, Kücherer C, Kostrikis LG, Nielsen C, Littsola K, Wensing A, Stanojevic M, Paredes R, Balotta C, Albert J, Boucher C, Gomez-Lopez A, Van Wijngaerden E, Van Ranst M, Vercauteren J, Vandamme AM, Van Laethem K. [Trends and predictors of transmitted drug resistance (TDR) and clusters with TDR  in a local Belgian HIV-1 epidemic](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101738). PLoS One. 2014 Jul 8;9(7):e101738. doi: 10.1371/journal.pone.0101738.
 
 
+<br>
 
 ## Tutorials
 
