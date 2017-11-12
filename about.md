@@ -3,7 +3,6 @@ layout: page
 title: About
 ---
 <br>
-
 I am currently a Postdoctoral fellow at [Professor Adolfo García-Sastre laboratory](http://labs.icahn.mssm.edu/garcia-sastre/) at the Icahn School of Medicine at Mount Sinai, USA. Here, I have been part of the [Centers for Excellence in Influenza Research](http://www.niaidceirs.org/), a global research network funded by the [National Institute of Allergy and Infectious Disease](https://www.niaid.nih.gov/) at the [National Health Institutes](https://www.nih.gov/), USA. Here, I have been working closely with [Dr. Martha Nelson](http://misms.net/staff/martha-nelson/) at the [Fogarty International Center](https://www.fic.nih.gov/Pages/Default.aspx), studying the evolution of influenza in animal populations, work with very important public health ramifications in helping us better understand the emergence of new influenza strains from animal hosts.
 
 I completed my PhD in the field of Evolutionary Virology in the [laboratory of Professor Philippe Lemey](http://rega.kuleuven.be/cev/ecv) at the [KULeuven](http://www.kuleuven.be/english), Belgium. In my project I integrated the concepts of evolutionary biology and molecular epidemiology to study pathogens' evolutionary processes at different biological scales. This culminated in a doctoral thesis entitled "The genetic traceability of viral pathogens: from isolation by distance to proximity by mobility", and a very particular set of skills that bring together mathemathical modelling through Bayesian statistics and the understanding of fundamental biology processes. These are useful to assess public health threats of viral epidemics and gain insight into patterns in disease transmission, with a particular focus on connecting the evolutionary process with geography and ecological patterns of host/vector species. We were in a particularly  exciting point in time when we aimed at advance phylogeographic inference from a traditionally descriptive approach to a hypothesis testing framework.
@@ -14,6 +13,3 @@ During my Bachelor degree in Molecular and Cellular Biology at the [Universidade
 
 
 For further information or if you have some "juicy" heterochronous sequence data and you’re up for a collaboration, please don’t hesitate to [contact me](https://www.google.com/recaptcha/mailhide/d?k=01RKQXgMiCn8dgvgHbVnzIPQ==&c=yAWm6xoNth1P87zR-8D3AIs1VdbTphSgX6CyOpHw4odFLGn6SO_x_4VJTao_19E0)!
-
-
-<i>Disclaimer: The views expressed in this website are my own and do not necessarily represent the views of the National Institutes of Health, the United States Government, KU Leuven or Universidade Nova de Lisboa.</i>
