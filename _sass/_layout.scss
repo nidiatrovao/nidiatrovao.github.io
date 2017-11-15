@@ -9,6 +9,10 @@
 footer {
   margin-bottom: 2rem;
   //background-color: #F0F0F0;
+  -webkit-user-select: none;  
+  -moz-user-select: none;    
+  -ms-user-select: none;      
+  user-select: none;
   
   small {
     display: inline-block;
