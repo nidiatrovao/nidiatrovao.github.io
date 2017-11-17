@@ -67,6 +67,10 @@ img {
   float: left;
   -webkit-shape-outside:circle();
   shape-outside:circle();
+  -webkit-user-select: none;  
+  -moz-user-select: none;    
+  -ms-user-select: none;      
+  user-select: none;
 }
 
 span {
