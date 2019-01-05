@@ -5,11 +5,11 @@ title: Publications
 <br>
 ## Articles
 
-*Dellicour S, Vrancken B, <u>Trovão NS</u>, Fargette D, Lemey P. [On the importance of negative controls in viral landscape phylogeography](https://academic.oup.com/ve/article/4/2/vey023/5075341). Virus Evol. 2018 Aug 16;4(2):vey023. doi: 10.1093/ve/vey023. eCollection 2018 Jul.
+* Dellicour S, Vrancken B, <u>Trovão NS</u>, Fargette D, Lemey P. [On the importance of negative controls in viral landscape phylogeography](https://academic.oup.com/ve/article/4/2/vey023/5075341). Virus Evol. 2018 Aug 16;4(2):vey023. doi: 10.1093/ve/vey023. eCollection 2018 Jul.
 
-*Chen Y, <u>Trovão NS</u>, Wang G, Zhao W, He P, Zhou H, Mo Y, Wei Z, Ouyang K, Huang W, García-Sastre A, Nelson MI. [Emergence and Evolution of Novel Reassortant Influenza A Viruses in Canines in Southern China](https://mbio.asm.org/content/9/3/e00909-18). MBio. 2018 Jun 5;9(3). pii: e00909-18. doi: 10.1128/mBio.00909-18.
+* Chen Y, <u>Trovão NS</u>, Wang G, Zhao W, He P, Zhou H, Mo Y, Wei Z, Ouyang K, Huang W, García-Sastre A, Nelson MI. [Emergence and Evolution of Novel Reassortant Influenza A Viruses in Canines in Southern China](https://mbio.asm.org/content/9/3/e00909-18). MBio. 2018 Jun 5;9(3). pii: e00909-18. doi: 10.1128/mBio.00909-18.
 
-*Pollett S, <u>Trovão NS</u>, Tan Y, Eden JS, Halpin RA, Bera J, Das SR, Wentworth D, Ocaña V, Mendocilla SM, Álvarez C, Calisto ME, Garcia J, Halsey E, Ampuero JS, Nelson MI, Leguia M. [The transmission dynamics and diversity of human metapneumovirus in Peru](https://onlinelibrary.wiley.com/doi/full/10.1111/irv.12537). Influenza Other Respir Viruses. 2018 Jul;12(4):508-513. doi: 10.1111/irv.12537. Epub 2018 Mar 30.
+* Pollett S, <u>Trovão NS</u>, Tan Y, Eden JS, Halpin RA, Bera J, Das SR, Wentworth D, Ocaña V, Mendocilla SM, Álvarez C, Calisto ME, Garcia J, Halsey E, Ampuero JS, Nelson MI, Leguia M. [The transmission dynamics and diversity of human metapneumovirus in Peru](https://onlinelibrary.wiley.com/doi/full/10.1111/irv.12537). Influenza Other Respir Viruses. 2018 Jul;12(4):508-513. doi: 10.1111/irv.12537. Epub 2018 Mar 30.
 
 * Nelson MI, Culhane MR, <u>Trovão NS</u>, Patnayak DP, Halpin RA, Lin X, Shilts MH, Das SR, Detmer SE. [The emergence and evolution of influenza A (H1α) viruses in swine in Canada and the United States](http://jgv.microbiologyresearch.org/content/journal/jgv/10.1099/jgv.0.000924#tab2). J Gen Virol. 2017 Nov;98(11):2663-2675. doi: 10.1099/jgv.0.000924.  
 
