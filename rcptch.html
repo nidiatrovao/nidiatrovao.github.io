@@ -20,7 +20,7 @@
   background-color: #f9f9f9;
 }
 </style>
-<script type="text/javascript" src="https://www.google.com/recaptcha/api.js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=en"></script>
 </head>
 <body>
   <div class="container">
@@ -28,18 +28,17 @@
   </div>
   <span id="e1"></span><span id="e2">Please verify captcha to get my e-mail</span>
   <noscript>Sorry, you need Javascript enabled to view my email.</noscript>
+
 <script type="text/javascript">
-
-
-    window.onload=function(){
+window.onload=function(){
 function crcptch() {
-	grecaptcha.render("rcptch", {sitekey: "6LdIKYcUAAAAADNqFLVfEoBQbX4QTRoLhLmRoPLO", theme: "light", callback: me1});
+  grecaptcha.render("rcptch", {sitekey: "6LdIKYcUAAAAADNqFLVfEoBQbX4QTRoLhLmRoPLO", theme: "light", callback: me1});
 }
 crcptch();
 
 function me1() {
-  coded = "lMflM@"
-  key = "2HYnafCgLew1Xo7Mi3S0DJE4IjxprPG9h8tOmckdlNFZUuqWyQAv6V5BKzRbTs"
+  coded = "JtItDv8WbfDb"
+  key = "MQDP8vZ9hGqyudA0xfpFwznNeIRVrSj5moJ6K1YUWkiH3blgOLTcaEtsB472XC"
   shift=coded.length
   link=""
   for (i=0; i<coded.length; i++) {
@@ -57,8 +56,8 @@ me2();
 }
 
 function me2() {
-  coded = "NYhmR.9JY"
-  key = "c57LzVijU9bS06rmd4qZWeOkYTw3IfQFGKnD28vtopMHEx1guJXlaBAPNyCsRh"
+  coded = "@RbSIF.aYb"
+  key = "pzhGXe5bvgcxU280ArTRaVOoNPqft7SB1Yj3DwMlHuiEdL6CQFn9I4kKJsymZW"
   shift=coded.length
   link=""
   for (i=0; i<coded.length; i++) {
@@ -72,6 +71,7 @@ function me2() {
     }
   }
 document.getElementById("e2").innerHTML = (link)
-}}
+}
+}
 </script>
 </body></html>
