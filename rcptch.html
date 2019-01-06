@@ -21,6 +21,13 @@
 }
 </style>
 <script src='https://www.google.com/recaptcha/api.js'></script>
+</head>
+<body>
+  <div class="container">
+    <div id="rcptch"></div>
+  </div>
+  <span id="e1"></span><span id="e2">Please verify captcha to get my e-mail</span>
+  <noscript>Sorry, you need Javascript enabled to view my email.</noscript>
 <script>
 function crcptch() {
 	grecaptcha.render("rcptch", {sitekey: "6LdIKYcUAAAAADNqFLVfEoBQbX4QTRoLhLmRoPLO", theme: "light", callback: me1});
@@ -63,11 +70,5 @@ function me2() {
   }
 document.getElementById("e2").innerHTML = (link)
 }
-</script></head>
-<body>
-  <div class="container">
-    <div id="rcptch"></div>
-  </div>
-  <span id="e1"></span><span id="e2">Please verify captcha to get my e-mail</span>
-  <noscript>Sorry, you need Javascript enabled to view my email.</noscript>
+</script>
 </body></html>
