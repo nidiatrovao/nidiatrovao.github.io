@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html><head>
+<style>
+.rc-anchor-pt{display:none;}
+
+#rcptch {
+  display: inline-block;
+  position: relative;
+}
+
+#rcptch:after {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 1;
+    bottom: 3px;
+    right: 5px;
+    width: 100px;
+    height: 70px;
+    background-color: #f9f9f9;
+}
+</style>
+<script>
+function crcptch() {
+	grecaptcha.render("rcptch", {sitekey: "6LcgSAMTAAAAACc2C7rc6HB9ZmEX4SyB0bbAJvTG", theme: "light", callback: me1});
+}
+crcptch();
+
+function me1() {
+  coded = "lMflM@"
+  key = "2HYnafCgLew1Xo7Mi3S0DJE4IjxprPG9h8tOmckdlNFZUuqWyQAv6V5BKzRbTs"
+  shift=coded.length
+  link=""
+  for (i=0; i<coded.length; i++) {
+    if (key.indexOf(coded.charAt(i))==-1) {
+      ltr = coded.charAt(i)
+      link += (ltr)
+    }
+    else {     
+      ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+      link += (key.charAt(ltr))
+    }
+  }
+document.getElementById("e1").innerHTML = (link);
+me2();
+}
+
+function me2() {
+  coded = "NYhmR.9JY"
+  key = "c57LzVijU9bS06rmd4qZWeOkYTw3IfQFGKnD28vtopMHEx1guJXlaBAPNyCsRh"
+  shift=coded.length
+  link=""
+  for (i=0; i<coded.length; i++) {
+    if (key.indexOf(coded.charAt(i))==-1) {
+      ltr = coded.charAt(i)
+      link += (ltr)
+    }
+    else {     
+      ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+      link += (key.charAt(ltr))
+    }
+  }
+document.getElementById("e2").innerHTML = (link)
+}
+</script></head>
+<body>
+  <div class="container">
+    <div id="rcptch"></div>
+  </div>
+  <span id="e1">1</span><span id="e2">Please verify captcha to get my e-mail</span>
+  <noscript>Sorry, you need Javascript enabled to view my email.</noscript>
+</body></html>
