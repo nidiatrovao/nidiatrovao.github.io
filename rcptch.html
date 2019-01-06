@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html><head>
-<style>
-
+<style id="compiled-css" type="text/css">
+.rc-anchor-pt{display:none;}
+	
 #rcptch {
   display: inline-block;
   position: relative;
@@ -27,7 +28,10 @@
   </div>
   <span id="e1"></span><span id="e2">Please verify captcha to get my e-mail</span>
   <noscript>Sorry, you need Javascript enabled to view my email.</noscript>
-<script>
+<script type="text/javascript">
+
+
+    window.onload=function(){
 function crcptch() {
 	grecaptcha.render("rcptch", {sitekey: "6LdIKYcUAAAAADNqFLVfEoBQbX4QTRoLhLmRoPLO", theme: "light", callback: me1});
 }
@@ -68,6 +72,6 @@ function me2() {
     }
   }
 document.getElementById("e2").innerHTML = (link)
-}
+}}
 </script>
 </body></html>
