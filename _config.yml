@@ -2,8 +2,8 @@ permalink: pretty
 
 title: Nídia Trovão
 tagline: Website
-url: http://nidiatrovao.com
-baseurl: "http://nidiatrovao.com"
+url: https://nidiatrovao.com
+baseurl: "https://nidiatrovao.com"
 
 sass:
   sass_dir: _sass
