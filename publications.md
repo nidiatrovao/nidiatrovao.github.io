@@ -5,6 +5,25 @@ title: Publications
 <br>
 ## Articles
 
+
+* Mavian C, Pond SK, Marini S, Magalis BR, Vandamme AM, Dellicour S, Scarpino SV, Houldcroft C, Villabona-Arenas J, Paisie TK, <b>Trovão NS</b>, Boucher C, Zhang Y, Scheuermann RH, Gascuel O, Lam TT, Suchard MA, Abecasis A, Wilkinson E, de Oliveira T, Bento AI, Schmidt HA, Martin D, Hadfield J, Faria N, Grubaugh ND, Neher RA, Baele G, Lemey P, Stadler T, Albert J, Crandall KA, Leitner T, Stamatakis A, Prosperi M, Salemi M. [Sampling bias and incorrect rooting make phylogenetic network tracing of SARS-COV-2 infections unreliable](https://www.pnas.org/content/early/2020/05/06/2007295117). Proc Natl Acad Sci U S A. 2020 May 7:202007295. doi: 10.1073/pnas.2007295117. 
+
+* <b>Trovão NS</b>, Nelson MI. [When Pigs Fly: Pandemic influenza enters the 21st century](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7081976/). PLoS Pathog. 2020 Mar 19;16(3):e1008259. doi: 10.1371/journal.ppat.1008259. eCollection 2020 Mar.
+
+* Thijssen M, <b>Trovão NS</b>, Mina T, Maes P, Pourkarim MR. [Novel hepatitis B virus subgenotype A8 and quasi-subgenotype D12 in African-Belgian chronic carriers](https://www.sciencedirect.com/science/article/pii/S1201971220300515). Int J Infect Dis. 2020 Apr;93:98-101. doi: 10.1016/j.ijid.2020.01.048. Epub 2020 Jan 28.
+
+* <b>Trovão NS</b>, Talavera GA, Nelson MI, Perez de la Rosa JD. [Evolution of highly pathogenic H7N3 avian influenza viruses in Mexico](https://onlinelibrary.wiley.com/doi/full/10.1111/zph.12673). Zoonoses Public Health. 2020 May;67(3):318-323. doi: 10.1111/zph.12673. Epub 2020 Jan 7.
+
+* Al-Qahtani AA, Pourkarim MR, <b>Trovão NS</b>, Vergote V, Li G, Thijssen M, Abdo AA, Sanai FM, Dela Cruz D, Bohol MFF, Al-Anazi MR, Al-Ahdal MN. [Molecular epidemiology, phylogenetic analysis and genotype distribution of hepatitis B virus in Saudi Arabia: Predominance of genotype D1](https://www.sciencedirect.com/science/article/pii/S1567134819302771). Infect Genet Evol. 2020 Jan;77:104051. doi: 10.1016/j.meegid.2019.104051. Epub 2019 Oct 18.
+
+* <b>Trovão NS</b>, Khuri-Bulos N, Tan Y, Puri V, Shilts MH, Halpin RA, Fedorova NB, Nelson MI, Halasa N, Das SR. [Molecular characterization of respiratory syncytial viruses circulating in a paediatric cohort in Amman, Jordan](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000292). Microb Genom. 2019 Sep 18. doi: 10.1099/mgen.0.000292. 
+
+* Altman MO, Angel M, Košík I, <b>Trovão NS</b>, Zost SJ, Gibbs JS, Casalino L, Amaro RE, Hensley SE, Nelson MI, Yewdell JW. [Human Influenza A Virus Hemagglutinin Glycan Evolution Follows a Temporal Pattern to a Glycan Limit](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6445938/). mBio. 2019 Apr 2;10(2):e00204-19. doi: 10.1128/mBio.00204-19.
+
+* <b>Trovão NS</b>, Shepherd FK, Herzberg K, Jarvis MC, Lam HC, Rovira A, Culhane MR, Nelson MI, Marthaler DG. [Evolution of rotavirus C in humans and several domestic animal species](https://onlinelibrary.wiley.com/doi/full/10.1111/zph.12575). Zoonoses Public Health. 2019 Aug;66(5):546-557. doi: 10.1111/zph.12575. Epub 2019 Mar 7.
+
+* Nelson MI, Souza CK, <b>Trovão NS</b>, Diaz A, Mena I, Rovira A, Vincent AL, Torremorell M, Marthaler D, Culhane MR.[Human-Origin Influenza A(H3N2) Reassortant Viruses in Swine, Southeast Mexico](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6433011/). Emerg Infect Dis. 2019 Apr;25(4):691-700. doi: 10.3201/eid2504.180779. Epub 2019 Apr 17.
+
 * Dellicour S, Vrancken B, <b>Trovão NS</b>, Fargette D, Lemey P. [On the importance of negative controls in viral landscape phylogeography](https://academic.oup.com/ve/article/4/2/vey023/5075341). Virus Evol. 2018 Aug 16;4(2):vey023. doi: 10.1093/ve/vey023. eCollection 2018 Jul.
 
 * Chen Y, <b>Trovão NS</b>, Wang G, Zhao W, He P, Zhou H, Mo Y, Wei Z, Ouyang K, Huang W, García-Sastre A, Nelson MI. [Emergence and Evolution of Novel Reassortant Influenza A Viruses in Canines in Southern China](https://mbio.asm.org/content/9/3/e00909-18). MBio. 2018 Jun 5;9(3). pii: e00909-18. doi: 10.1128/mBio.00909-18.
