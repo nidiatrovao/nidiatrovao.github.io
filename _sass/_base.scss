@@ -85,11 +85,10 @@ span {
 
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css);
 
+
+
 ul {
-  position:absolute;
-  top:50%;
-  left:50%;
-  transform: translate(-50%, -50%);
+  position:relative;
   margin:0;
   padding:0;
   display:flex;
