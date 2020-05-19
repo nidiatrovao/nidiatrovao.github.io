@@ -5,7 +5,6 @@ title: Publications
 <br>
 ## Articles
 
-
 * Mavian C, Pond SK, Marini S, Magalis BR, Vandamme AM, Dellicour S, Scarpino SV, Houldcroft C, Villabona-Arenas J, Paisie TK, <b>Trovão NS</b>, Boucher C, Zhang Y, Scheuermann RH, Gascuel O, Lam TT, Suchard MA, Abecasis A, Wilkinson E, de Oliveira T, Bento AI, Schmidt HA, Martin D, Hadfield J, Faria N, Grubaugh ND, Neher RA, Baele G, Lemey P, Stadler T, Albert J, Crandall KA, Leitner T, Stamatakis A, Prosperi M, Salemi M. [Sampling bias and incorrect rooting make phylogenetic network tracing of SARS-COV-2 infections unreliable](https://www.pnas.org/content/early/2020/05/06/2007295117). Proc Natl Acad Sci U S A. 2020 May 7:202007295. doi: 10.1073/pnas.2007295117. 
 
 * <b>Trovão NS</b>, Nelson MI. [When Pigs Fly: Pandemic influenza enters the 21st century](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7081976/). PLoS Pathog. 2020 Mar 19;16(3):e1008259. doi: 10.1371/journal.ppat.1008259. eCollection 2020 Mar.
