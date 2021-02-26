@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 <br>
-I am currently a Postdoctoral Visiting Fellow with [Dr. Martha Nelson](http://misms.net/staff/martha-nelson/) at the [Fogarty International Center](https://www.fic.nih.gov/Pages/Default.aspx). Here, I have been studying  the emergence and evolution of new influenza strains in animal populations. In addition to my work on influenza, I have been applying phylodynamic approaches to other RNA viruses for which the evolutionary and transmission patterns are still unclear.  
+I am currently a Postdoctoral Visiting Fellow at the [Fogarty International Center](https://www.fic.nih.gov/Pages/Default.aspx). Here, I have been studying  the emergence and evolution of new influenza strains in animal populations. In addition to my work on influenza, I have been applying phylodynamic approaches to other RNA viruses for which the evolutionary and transmission patterns are still unclear, such as respiratory syncytial virus and SARS-CoV-2.  
 
 I completed my first Postdoctoral fellowship with [Professor Adolfo García-Sastre's laboratory](http://labs.icahn.mssm.edu/garcia-sastre/) at the Icahn School of Medicine at Mount Sinai, USA. I was also part of the [Centers for Excellence in Influenza Research](http://www.niaidceirs.org/), a global research network funded by the [National Institute of Allergy and Infectious Disease](https://www.niaid.nih.gov/) at the [National Health Institutes](https://www.nih.gov/), USA. My main focus was on how influenza viruses evolve over time in animals, acquiring the ability to break host barriers becoming a major threat to humans and other species.
 
