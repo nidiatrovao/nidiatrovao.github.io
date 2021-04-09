@@ -15,7 +15,7 @@ title: Publications
 ## Media Coverage
 
 Interviews:
-*  <a target="_blank" href="https://www.theatlantic.com/health/archive/2020/07/double-pandemic-covid-flu/614152/" >America Should Prepare for a Double Pandemic</a> The Atlantic
+*  <a target="_blank" href="https://www.theatlantic.com/health/archive/2020/07/double-pandemic-covid-flu/614152/" >America Should Prepare for a Double Pandemic</a> - The Atlantic
 *  <a target="_blank" href="https://www.vice.com/en/article/m7jp9y/if-swine-flu-happens-during-covid-19-are-we-screwed" >If Swine Flu Happens During COVID-19, Are We Screwed? - VICE Motherboard</a> 
 *  <a target="_blank" href="https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30130-0/fulltext" >In preparation for a COVID-19-influenza double epidemic - The Lancet Microbe</a> 
 
