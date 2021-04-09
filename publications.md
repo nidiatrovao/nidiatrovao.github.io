@@ -24,7 +24,7 @@ Other work featured:
 *  <a target="_blank" href="https://www.sciencenews.org/article/dogs-carry-surprising-variety-flu-viruses" >Dogs carry a surprising variety of flu viruses</a> - Science News 
 *  <a target="_blank" href="https://www.sciencenewsforstudents.org/article/dogs-carry-flu-viruses" >Dogs carry a grab bag of flu viruses</a> - Science News for Students
 *  <a target="_blank" href="https://www.smithsonianmag.com/smart-news/say-it-aint-so-next-flu-pandemic-might-come-dogs-180969289/" >The next flu pandemic might come from dogs</a> - Smithsonian
-*  <a target="_blank" href="https://www.independent.co.uk/news/health/dog-flu-outbreak-pandemic-infection-swine-bird-infection-h1n1-a8384481.html" >Rise of dog flu strains could increase risk of next human pandemic, scientists warn</a> - Independent 
+*  <a target="_blank" href="https://www.independent.co.uk/news/health/dog-flu-outbreak-pandemic-infection-swine-bird-infection-h1n1-a8384481.html" >Rise of dog flu strains could increase risk of next human pandemic, scientists <br> warn</a> - Independent 
 *  <a target="_blank" href="https://www.telegraph.co.uk/news/0/beware-dog-flu-scientists-warn-family-pet-could-spark-next-pandemic/" >Beware dog flu: scientists warn family pet could spark the next pandemic</a> - The Telegraph 
 *  <a target="_blank" href="https://www.eurekalert.org/pub_releases/2016-06/nioa-nsp062816.php" >NIH-supported study pinpoints origin of 2009 H1N1 influenza pandemic</a> - EurekAlert! 
 *  <a target="_blank" href="https://www.health24.com/Medical/Flu/About-Flu/2009-swine-flu-originated-in-mexico-20160702" >2009 swine flu originated in Mexico</a> - health24 
