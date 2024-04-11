@@ -7,7 +7,7 @@ title: Publications
 
 *  <a target="_blank" href="https://scholar.google.com/citations?user=Q8Si6_cAAAAJ" title="Click to see my publications">Google Scholar</a>
 *  <a target="_blank" href="https://orcid.org/0000-0002-2106-1166" title="Click to see my publications">ORCID</a>
-*  <a target="_blank" href="https://pubmed.ncbi.nlm.nih.gov/?term=Trovao%2C+Nidia%5BAuthor%5D" title="Click to see my publications">PubMed</a>
+*  <a target="_blank" href="https://pubmed.ncbi.nlm.nih.gov/?term=%28%28Sequeira+Trova%CC%83o+N%5BAuthor%5D%29+OR+%28Trovao+NS%5BAuthor%5D%29%29&sort=date&size=100" title="Click to see my publications">PubMed</a>
 
 
 ## Media Coverage
